@@ -10,6 +10,7 @@ public class HelloGit {
 		System.out.println("创建分支");
 		System.out.println("主线添加");
 		System.out.println("分支添加");
+		System.out.println("模拟与github上更新冲突");
 	}
 
 }
