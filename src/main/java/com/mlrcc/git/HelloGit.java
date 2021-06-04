@@ -11,6 +11,7 @@ public class HelloGit {
 		System.out.println("主线添加");
 		System.out.println("分支添加");
 		System.out.println("模拟与github上更新冲突");
+		System.out.println("github上添加");
 	}
 
 }
